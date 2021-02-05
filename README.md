@@ -1,8 +1,10 @@
 # Website
 
-[Landing Page](https://nusa-it.000webhostapp.com/)
+- View [Landing Page](https://nusa-it.000webhostapp.com/)
 ![screencapture-nusa-it-000webhostapp-2021-01-29-14_39_59](https://user-images.githubusercontent.com/64743796/106986720-4933c780-67af-11eb-9606-cfd161fd3bbf.png)
-[Dashboard](https://nusa-it.000webhostapp.com/dashboard/examples/1-dashboard.html)
+- View [Dashboard](https://nusa-it.000webhostapp.com/dashboard/examples/1-dashboard.html)
+![screencapture-nusa-it-000webhostapp-dashboard-examples-1-dashboard-html-2021-01-29-14_40_39](https://user-images.githubusercontent.com/64743796/106986984-df67ed80-67af-11eb-97a4-c981970340b1.png)
+
 
 
 ## Overview
