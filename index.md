@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+# Website
 
-You can use the [editor on GitHub](https://github.com/winatungmiharja/nusa-it/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[Landing Page](https://nusa-it.000webhostapp.com/)
+[Dashboard](https://nusa-it.000webhostapp.com/dashboard/examples/1-dashboard.html)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Overview
 
-### Markdown
+- A **prototype Website** made from bootstrap4
+- On the landing page, scroll down to the bottom and click _"dashboard"_ button, 
+  it will redirect you to the Dashboard webpage
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### About
 
-```markdown
-Syntax highlighted code block
+Plan your trip to **East Nusa Tenggara**. Enter where you want to go and then discover the coolest **“off the beaten path”** places along the way. Our database includes East Nusa Tenggara's most fascinating places, making planning the unexpected easier than you thought. Sometimes Trip planning can be tedious… and what do you get from it? Most of what you find online will funnel you into the same places, filled with other travelers. It can feel like you need a local guide to get an **authentic experience** on your trip. We helps you escape the tourist bubble and find the coolest stops!
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/winatungmiharja/nusa-it/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
