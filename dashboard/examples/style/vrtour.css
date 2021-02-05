@@ -1,0 +1,26 @@
+.entry-content {
+	margin: 0px;
+
+}
+iframe {
+	border-radius: 7px;
+}
+
+.card{
+	box-shadow: 0 0 3px 0 rgba(0, 0, 0, .2); 
+  	border-radius: 7px;
+  	
+	background-color: rgba(255, 255, 255, 0.8);
+	
+}
+.text {
+	font-size: .8125rem;
+	font-weight: 300;
+}
+
+.badge {
+	position: absolute;
+	background-color: rgba(255, 255, 255, 0.7);
+	margin-top: 10px;
+	margin-left: 10px;
+}

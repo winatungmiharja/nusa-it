@@ -1,0 +1,64 @@
+
+.my-logo {
+	width: 300px;
+}
+.my-logo-mini {
+	width: 40px;
+}
+
+.buffer {
+	height: 100px;
+}
+.bufferlarge {
+	height: 300px;
+}
+.tengah {
+	display: flex;
+	justify-content: center;
+	align-content: center;
+}
+.vr {
+	width: 80%;
+	max-width: 540px;
+	position: relative;
+  	top: -100px;
+  	left: 0;
+}
+
+.section-dark {
+	padding-top: 0px;
+	margin-top: 0px;
+}
+
+.vrtext {
+	position: absolute;
+	top: 45%;
+	left: 48%;
+	width: 50%;
+}
+
+.vrglass {
+	
+	width: 100%;
+	margin-top: 20px;
+}
+
+.virtual {
+	position: relative;
+	top: -110px;
+}
+
+.tengah-1 {
+	display: flex;
+	justify-content: center;
+}
+
+.card-1 {
+	width: 30rem;
+  	height: 35rem;
+  	box-shadow: 0 0 1rem 0 rgba(0, 0, 0, .2); 
+  	border-radius: 15px;
+  	background-color: rgba(255, 255, 255, .15);
+  	backdrop-filter: blur(5px);
+	margin-top: 50px;
+}

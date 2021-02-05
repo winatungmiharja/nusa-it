@@ -1,0 +1,44 @@
+.nav-bg {
+	background-color: rgba(6, 34, 74, 1);
+}
+#body-bg {
+      background-image: url('background.jpg');
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-position: left top;
+     
+   }
+.card{
+	box-shadow: 0 0 3px 0 rgba(0, 0, 0, .2); 
+  	border-radius: 7px;
+  	
+	background-color: rgba(255, 255, 255, 0.7);
+	backdrop-filter: blur(2px);
+	border-radius: 7px;
+	transition: all .5s;
+	
+}
+
+.btn-icon-clipboard {
+	padding: 0px;
+	box-shadow: 0 0 3px 0 rgba(0, 0, 0, .2); 
+  	border-radius: 7px;
+  	backdrop-filter: blur(2px);
+	background-color: rgba(255, 255, 255, 0.7);
+	border-radius: 7px;
+	transition: all .5s;
+}
+.col {
+	padding-right: 0px;
+}
+.wrap {
+	padding: 15px 15px 0px 15px;
+}
+.title {
+	font-size:1.25rem;
+	font-weight: 600;
+}
+.text {
+	font-size: .8125rem;
+	font-weight: 300;
+}
